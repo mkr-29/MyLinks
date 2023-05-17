@@ -32,6 +32,11 @@ export default function homepage() {
                 <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="linkedin icon"/>
                 <a href="https://www.linkedin.com/in/racinmk/">LinkedIn</a>
             </span>
+            <span>
+                {/* portfolio icon img */}
+                <img src="https://img.icons8.com/fluent/48/000000/resume-website.png" alt="portfolio icon"/>
+                <a href="https://tinyurl.com/racinmk">Portfolio</a>
+            </span>
         </div>
         <FloatingDots />
     </div>
